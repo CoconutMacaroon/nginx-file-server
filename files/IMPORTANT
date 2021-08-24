@@ -1,0 +1,1 @@
+This file shouldn't exist. If it does, the webmaster should have mounted a volume with --volume local/path/to/files/to/server:/files
