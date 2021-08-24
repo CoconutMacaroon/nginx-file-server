@@ -1,5 +1,7 @@
 # NGINX File Server
 
+![Docker Pulls](https://img.shields.io/docker/pulls/cocomac/nginx-file-server) ![GitHub last commit](https://img.shields.io/github/last-commit/coconutmacaroon/nginx-file-server)
+
 A simple file server using NGINX
 
 ## Using the image
